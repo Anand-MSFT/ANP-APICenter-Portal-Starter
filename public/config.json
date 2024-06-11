@@ -1,0 +1,10 @@
+{
+  "dataApiHostName": "ANP-APICDemo-new.data.eastus.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+      "clientId": "c23ae359-b9ea-463c-a2ed-52e552cb6064",
+      "tenantId": "69487b82-e32c-4f5e-933e-f2ecee26b39f",
+      "scopes": ["https://azure-apicenter.net/user_impersonation"],
+      "authority": "https://login.microsoftonline.com/"
+  }
+}
